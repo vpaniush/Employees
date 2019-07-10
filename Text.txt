@@ -1,0 +1,6 @@
+﻿Bob;34;Apple;30;m
+Mark;21;Apple;iOS
+Mike;22;Samsung;Screens
+Steve;40;Dell;20;m
+Garold;36;HP;15;m
+Barry;19;Dell;Keyboards

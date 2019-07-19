@@ -59,7 +59,7 @@ namespace Employees
         public override string ToString() => String.Format("Name: {0, -10}\tAge: {1,-3}\tCompany: {2,-10}\tSubordinates: {3,-4}", Name, Age, Company, Subords);
     }
 
-    sealed class Worker : Employee
+    class Worker : Employee
     {
         public string Department { get; set; }
 
